@@ -50,7 +50,7 @@ capslock.addEventListener('click', () => {
  
 for (let key of allKeys) {
     if (key.classList.length > 1) {
-
+        //do nothing
     } else {
         key.addEventListener('click', () => {
             textArea.innerText += key.innerText;
