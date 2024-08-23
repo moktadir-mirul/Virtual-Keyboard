@@ -41,7 +41,7 @@ body {
 }
 .keyboard-area {
     width: 65vw;
-    height: 50vh;
+    height: auto;
     color: #fff;
     border: none;
     border-radius: 15px;
